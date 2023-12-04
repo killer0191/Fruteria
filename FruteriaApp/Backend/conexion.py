@@ -5,7 +5,7 @@ class Conexion:
         self.server = "localhost"
         self.database = "Fruteria"
         self.username = "sa"
-        self.password = ""
+        self.password = "yuisa12"
         self.connection = None
 
     def conectar(self):
